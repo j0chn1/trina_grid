@@ -36,6 +36,7 @@ dependencies:
     git:
       url: https://github.com/j0chn1/dart_pdf.git
       ref: master
+      path: pdf
   shadcn_ui: ^0.55.0
 
 dev_dependencies:
