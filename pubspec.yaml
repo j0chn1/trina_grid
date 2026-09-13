@@ -32,7 +32,10 @@ dependencies:
   rxdart: ^0.28.0
   collection: ^1.19.1
   path: ^1.9.1
-  pdf: ^3.11.3
+  pdf:
+    git:
+      url: https://github.com/j0chn1/dart_pdf.git
+      ref: master
   shadcn_ui: ^0.55.0
 
 dev_dependencies:
